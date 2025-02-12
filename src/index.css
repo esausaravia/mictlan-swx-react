@@ -1,1 +1,23 @@
 @import "tailwindcss";
+
+:root {
+
+  color-scheme: light dark;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-image: url('./assets/bg-body.webp');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.playmat {
+  background-image: url('./assets/bg-playmat.webp');
+  background-size: cover;
+  background-repeat: no-repeat;
+}

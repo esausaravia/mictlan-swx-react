@@ -1,0 +1,19 @@
+{
+  "name": "Navecitas by ExaBlack",
+  "short_name": "Navecitas",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "./icons/swx-icon-128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "./icons/swx-icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "theme_color": "#222222",
+  "background_color": "#222222"
+}
